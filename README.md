@@ -1,2 +1,2 @@
 # SampleSolution
-Solution Package Creates Custom SharePoint Site Collection with Web Parts, Custom Site Columns, and Content Types, 
+Solution Package with Deployment Checklist Application page with button that a Server Administrator can click to author all objects for an application comprised of a Site Collection and all objects from the development environment including Web Parts, Site Columns, Content Types, Groups, Permissions, Users, Navigation Nodes, Lists, Libraries, Webs, Event Receivers, a Custom Master Page, CSS, Images, and JavaScript (CSOM and JQuery)
